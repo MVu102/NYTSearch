@@ -1,0 +1,11 @@
+.tps::before {
+    font-family: "Font Awesome 5 Free"; font-weight: 400; content: "\f1ea";
+  }
+
+.astext {
+    background:none;
+    border:none;
+    margin:0;
+    padding:0;
+    cursor: pointer;
+}
